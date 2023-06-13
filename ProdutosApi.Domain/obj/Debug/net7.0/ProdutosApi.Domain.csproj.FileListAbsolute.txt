@@ -1,0 +1,72 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 20 - 13.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 21 - 15.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 22 - 20.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 23 - 22.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.deps.json
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\bin\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.dll
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\refint\ProdutosApi.Domain.dll
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ProdutosApi.Domain.pdb
+C:\Users\Usuario\Desktop\agenda\ProdutosApi\ProdutosApi.Domain\obj\Debug\net7.0\ref\ProdutosApi.Domain.dll
